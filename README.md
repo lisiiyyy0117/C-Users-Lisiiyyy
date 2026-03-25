@@ -1,1 +1,1 @@
-"Original line: Master version" 
+"Conflict Test: Branch version" 
